@@ -1,0 +1,250 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EirUvr7r9xEOoGKRTFvAtD4fcmQ",
+  "nextPageToken": "CAcQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 7
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0AVOdrNoG7JTdFQiSy_hN8DS5dQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VZMNO0BPYE0"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-08T00:01:36Z",
+        "channelId": "UCu8B46V0mU2Wqii6qUatrvw",
+        "title": "Environment",
+        "description": "Provided to YouTube by Universal Music Group Environment · Dave PSYCHODRAMA ℗ 2019 Dave / Neighbourhood Recordings ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZMNO0BPYE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZMNO0BPYE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZMNO0BPYE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-08T00:01:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IBCbPDbzpKoSsdw4zbDb6tjRHR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KYAKoGP6BE8"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T22:06:14Z",
+        "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+        "title": "How do holiday celebrations affect the environment? l ABC News",
+        "description": "Excess waste affects the environment during the holidays. #ABCNews #holiday #HolidayTravel #Environment #SustainableLiving ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KYAKoGP6BE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KYAKoGP6BE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KYAKoGP6BE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T22:06:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-kLBIRc3fxpE8cDqESF0m3EIylc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oa7ntoCf8yU"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-12T23:56:26Z",
+        "channelId": "UCLR12nbRHuGJuFGCE0pvTcw",
+        "title": "The Environment . Learn English",
+        "description": "This video describes environmental problems and possible solutions. The causes and effects of global are described with an easy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oa7ntoCf8yU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oa7ntoCf8yU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oa7ntoCf8yU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "English Chit Chat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-12T23:56:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OhSlWgx86d8XW-5s3czXnnzzq4w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oxRg01dD5Lo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T19:10:38Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "The Metaverse &amp; the Environment | Amelia Kallman | TEDxWoodLane",
+        "description": "In this talk, Amelia Kallman shares her latest research and insights on the impact of the metaverse on the environment and what it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxRg01dD5Lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxRg01dD5Lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxRg01dD5Lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T19:10:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dJHDOHibQz_qMTQbQmHldyTbnnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4bXfDBbdqgk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-19T17:45:00Z",
+        "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+        "title": "Australia&#39;s environment in &#39;shocking&#39; decline, report finds - BBC News",
+        "description": "Australia's environment is in a shocking state and faces further decline from amplifying threats, according to an anticipated report.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4bXfDBbdqgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4bXfDBbdqgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4bXfDBbdqgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-19T17:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fpSeTpPjl2bLF3_oF7WMAAFifDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ODni_Bey154"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-24T12:33:34Z",
+        "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
+        "title": "What Is PLASTIC POLLUTION? | What Causes Plastic Pollution? | The Dr Binocs Show | Peekaboo Kidz",
+        "description": "Dr Binocs will explain, \" What Is Plastic? Effects Of Plastic Pollution On Ocean | Plastic Ban | Aquatic Animals | Environmental ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ODni_Bey154/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ODni_Bey154/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ODni_Bey154/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Peekaboo Kidz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-24T12:33:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F4CP-rhX4bMjvEn77EQlQDdDfpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mZYhKM43Uqw"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-18T09:41:22Z",
+        "channelId": "UCHaHD477h-FeBbVh9Sh7syA",
+        "title": "How and why is the environment protected? - BBC Learning English",
+        "description": "People are facing a threat we've never faced before: environmental disasters. This programme will show you how the law is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mZYhKM43Uqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mZYhKM43Uqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZYhKM43Uqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Learning English",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-18T09:41:22Z"
+      }
+    }
+  ]
+}
